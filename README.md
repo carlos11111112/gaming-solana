@@ -1,4 +1,4 @@
-# 🎮 Gaming - Solana Program
+#  Gaming - Solana Program
 
 Programa en Solana desarrollado con Anchor Framework que permite gestionar videojuegos en la blockchain.
 
