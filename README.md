@@ -22,11 +22,6 @@ Permite realizar operaciones CRUD sobre videojuegos almacenados en la blockchain
 | genero  | String | Género del videojuego    |
 | precio  | u64    | Precio en lamports       |
 
-## Program ID
-```
-CwSpGAU2L1219yNocMLrZWB2dgr4qySyb7j8dL79dduA
-```
-
 ## Red
 
 Desplegado en **Solana Devnet**
